@@ -1,0 +1,17 @@
+/Users/varoonsahgal/WeatherConsoleApp/bin/Debug/net6.0/WeatherConsoleApp
+/Users/varoonsahgal/WeatherConsoleApp/bin/Debug/net6.0/WeatherConsoleApp.deps.json
+/Users/varoonsahgal/WeatherConsoleApp/bin/Debug/net6.0/WeatherConsoleApp.runtimeconfig.json
+/Users/varoonsahgal/WeatherConsoleApp/bin/Debug/net6.0/WeatherConsoleApp.dll
+/Users/varoonsahgal/WeatherConsoleApp/bin/Debug/net6.0/WeatherConsoleApp.pdb
+/Users/varoonsahgal/WeatherConsoleApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/WeatherConsoleApp.csproj.AssemblyReference.cache
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/WeatherConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/WeatherConsoleApp.AssemblyInfoInputs.cache
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/WeatherConsoleApp.AssemblyInfo.cs
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/WeatherConsoleApp.csproj.CoreCompileInputs.cache
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/WeatherConsoleApp.csproj.CopyComplete
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/WeatherConsoleApp.dll
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/refint/WeatherConsoleApp.dll
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/WeatherConsoleApp.pdb
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/WeatherConsoleApp.genruntimeconfig.cache
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net6.0/ref/WeatherConsoleApp.dll
