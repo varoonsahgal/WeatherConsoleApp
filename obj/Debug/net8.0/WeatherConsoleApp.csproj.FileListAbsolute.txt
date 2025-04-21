@@ -15,3 +15,4 @@
 /Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net8.0/WeatherConsoleApp.pdb
 /Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net8.0/WeatherConsoleApp.genruntimeconfig.cache
 /Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net8.0/ref/WeatherConsoleApp.dll
+/Users/varoonsahgal/WeatherConsoleApp/obj/Debug/net8.0/WeatherConsoleApp.sourcelink.json
